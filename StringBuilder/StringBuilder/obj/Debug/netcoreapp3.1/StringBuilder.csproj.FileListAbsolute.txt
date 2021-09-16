@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.genruntimeconfig.cache

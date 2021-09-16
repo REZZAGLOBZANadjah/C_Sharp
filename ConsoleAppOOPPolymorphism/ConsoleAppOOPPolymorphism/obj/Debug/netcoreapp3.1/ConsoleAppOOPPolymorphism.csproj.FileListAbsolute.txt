@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\bin\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\bin\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\bin\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\bin\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\bin\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\bin\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\obj\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\obj\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\obj\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\obj\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\obj\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\obj\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.genruntimeconfig.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPPolymorphism\ConsoleAppOOPPolymorphism\obj\Debug\netcoreapp3.1\ConsoleAppOOPPolymorphism.csproj.AssemblyReference.cache

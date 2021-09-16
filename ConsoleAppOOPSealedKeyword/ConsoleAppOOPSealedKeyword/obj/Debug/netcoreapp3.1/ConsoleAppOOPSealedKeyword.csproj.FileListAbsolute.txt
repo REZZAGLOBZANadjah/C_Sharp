@@ -1,0 +1,4 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPSealedKeyword\ConsoleAppOOPSealedKeyword\obj\Debug\netcoreapp3.1\ConsoleAppOOPSealedKeyword.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPSealedKeyword\ConsoleAppOOPSealedKeyword\obj\Debug\netcoreapp3.1\ConsoleAppOOPSealedKeyword.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPSealedKeyword\ConsoleAppOOPSealedKeyword\obj\Debug\netcoreapp3.1\ConsoleAppOOPSealedKeyword.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPSealedKeyword\ConsoleAppOOPSealedKeyword\obj\Debug\netcoreapp3.1\ConsoleAppOOPSealedKeyword.csproj.CoreCompileInputs.cache

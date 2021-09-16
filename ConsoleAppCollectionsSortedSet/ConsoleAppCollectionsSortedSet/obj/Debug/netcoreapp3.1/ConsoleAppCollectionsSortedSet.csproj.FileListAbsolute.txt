@@ -1,0 +1,13 @@
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.exe
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.deps.json
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.runtimeconfig.json
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.runtimeconfig.dev.json
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.dll
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.pdb
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.csproj.AssemblyReference.cache
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.AssemblyInfoInputs.cache
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.AssemblyInfo.cs
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.csproj.CoreCompileInputs.cache
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.dll
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.pdb
+C:\Users\h soft\source\repos\ConsoleAppCollectionsSortedSet\ConsoleAppCollectionsSortedSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsSortedSet.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.exe
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.deps.json
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.runtimeconfig.json
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.runtimeconfig.dev.json
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.dll
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.pdb
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.csproj.AssemblyReference.cache
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.AssemblyInfoInputs.cache
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.AssemblyInfo.cs
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.csproj.CoreCompileInputs.cache
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.dll
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.pdb
+C:\Users\h soft\source\repos\ConsoleAppCollectionsDictionary\ConsoleAppCollectionsDictionary\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsDictionary.genruntimeconfig.cache

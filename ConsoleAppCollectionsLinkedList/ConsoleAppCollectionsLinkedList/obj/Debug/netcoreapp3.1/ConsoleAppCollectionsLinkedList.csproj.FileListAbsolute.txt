@@ -1,0 +1,13 @@
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.exe
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.deps.json
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.runtimeconfig.json
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.runtimeconfig.dev.json
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.dll
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.pdb
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.csproj.AssemblyReference.cache
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.AssemblyInfoInputs.cache
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.AssemblyInfo.cs
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.dll
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.pdb
+C:\Users\h soft\source\repos\ConsoleAppCollectionsLinkedList\ConsoleAppCollectionsLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsLinkedList.genruntimeconfig.cache

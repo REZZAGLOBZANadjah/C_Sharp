@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfAppWGUICheckBoxcontrol.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppWGUICheckBoxcontrol"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="461" Width="717">
+    <Grid Margin="0,0,0,0">
+        <Label x:Name="Label1"   HorizontalAlignment="Left" Margin="137,46,0,0" VerticalAlignment="Top" Width="443" Height="216" Background="#FF37937A" FontSize="18" FontWeight="Bold"/>
+        <CheckBox x:Name="cbN" Content="Nadjah" HorizontalAlignment="Left" Margin="50,46,0,0" VerticalAlignment="Top" Checked="cbnadjah" Unchecked="UNcbnadjah" FontSize="14" FontWeight="Bold"/>
+        <CheckBox x:Name="cbA" Content="Abir" HorizontalAlignment="Left" Margin="50,90,0,0" VerticalAlignment="Top" Checked="cbabir" Unchecked="UNcbAbir" FontSize="14" FontWeight="Bold"/>
+        <CheckBox x:Name="cbF" Content="Friha" HorizontalAlignment="Left" Margin="50,134,0,0" VerticalAlignment="Top" Checked="cbfriha" Unchecked="UNcbFriha" FontSize="14" FontWeight="Bold"/>
+        <CheckBox x:Name="cbT" Content="Tedjani" HorizontalAlignment="Left" Margin="50,170,0,0" VerticalAlignment="Top" Checked="cbtedjani" Unchecked="UNcbTedjani" FontSize="14" FontWeight="Bold"/>
+        <CheckBox x:Name="cbTh" Content="Tahar" HorizontalAlignment="Left" Margin="50,217,0,0" VerticalAlignment="Top" Checked="cbtahar" Unchecked="UNcbTahar" FontSize="14" FontWeight="Bold" />
+        <Button Content="Clear All" HorizontalAlignment="Left" Margin="489,293,0,0" VerticalAlignment="Top" Height="30" Width="92" Click="BtnClear" FontSize="16" FontWeight="Bold" Background="#FFDBC1C2"/>
+        <Label Content="Present list " HorizontalAlignment="Left" Margin="273,12,0,0" VerticalAlignment="Top" Width="118" FontSize="18" FontWeight="Bold"/>
+        <RadioButton Content="Payed" HorizontalAlignment="Left" Margin="69,0,0,121" VerticalAlignment="Bottom" GroupName="RadioNames" Checked="RBPay" Background="#FFD1A8A8"/>
+        <RadioButton Content="Not pay" HorizontalAlignment="Left" Margin="184,0,0,121" VerticalAlignment="Bottom" GroupName="RadioNames" Checked="RBNPay" Background="#FFDBC1C2"/>
+        <RadioButton Content="Free" HorizontalAlignment="Left" Margin="292,0,0,121" VerticalAlignment="Bottom" GroupName="RadioNames" Checked="RBFree" Background="#FFDBC1C2"/>
+
+    </Grid>
+</Window>

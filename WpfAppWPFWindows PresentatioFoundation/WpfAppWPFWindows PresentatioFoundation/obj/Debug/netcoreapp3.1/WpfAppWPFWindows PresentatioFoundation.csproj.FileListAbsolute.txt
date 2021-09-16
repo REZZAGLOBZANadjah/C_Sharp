@@ -1,0 +1,19 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\bin\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\bin\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\bin\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\bin\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\bin\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\bin\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\App.g.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation_MarkupCompile.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation_MarkupCompile.lref
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.g.resources
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\WpfAppWPFWindows PresentatioFoundation\WpfAppWPFWindows PresentatioFoundation\obj\Debug\netcoreapp3.1\WpfAppWPFWindows PresentatioFoundation.genruntimeconfig.cache

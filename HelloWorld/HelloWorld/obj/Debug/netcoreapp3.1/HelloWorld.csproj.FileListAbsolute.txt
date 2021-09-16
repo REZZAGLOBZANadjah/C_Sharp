@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

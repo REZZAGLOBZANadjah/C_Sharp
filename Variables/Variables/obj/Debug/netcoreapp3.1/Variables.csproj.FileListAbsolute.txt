@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache

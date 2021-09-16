@@ -1,0 +1,13 @@
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\bin\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.exe
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\bin\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.deps.json
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\bin\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.runtimeconfig.json
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\bin\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.runtimeconfig.dev.json
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\bin\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.dll
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\bin\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.pdb
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\obj\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.csproj.AssemblyReference.cache
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\obj\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.AssemblyInfoInputs.cache
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\obj\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.AssemblyInfo.cs
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\obj\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.csproj.CoreCompileInputs.cache
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\obj\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.dll
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\obj\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.pdb
+C:\Users\h soft\source\repos\ConsoleAppSystemExceptionclass\ConsoleAppSystemExceptionclass\obj\Debug\netcoreapp3.1\ConsoleAppSystemExceptionclass.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\bin\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppCollectionsHashSet\ConsoleAppCollectionsHashSet\obj\Debug\netcoreapp3.1\ConsoleAppCollectionsHashSet.genruntimeconfig.cache

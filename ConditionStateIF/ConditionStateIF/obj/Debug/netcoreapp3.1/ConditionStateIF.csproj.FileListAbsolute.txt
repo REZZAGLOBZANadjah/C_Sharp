@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.genruntimeconfig.cache

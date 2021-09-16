@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\bin\Debug\netcoreapp3.1\SwichCase.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\bin\Debug\netcoreapp3.1\SwichCase.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\bin\Debug\netcoreapp3.1\SwichCase.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\bin\Debug\netcoreapp3.1\SwichCase.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\bin\Debug\netcoreapp3.1\SwichCase.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\bin\Debug\netcoreapp3.1\SwichCase.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\obj\Debug\netcoreapp3.1\SwichCase.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\obj\Debug\netcoreapp3.1\SwichCase.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\obj\Debug\netcoreapp3.1\SwichCase.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\obj\Debug\netcoreapp3.1\SwichCase.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\obj\Debug\netcoreapp3.1\SwichCase.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\obj\Debug\netcoreapp3.1\SwichCase.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\SwichCase\SwichCase\obj\Debug\netcoreapp3.1\SwichCase.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\bin\Debug\netcoreapp3.1\ForLooupConsole.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\bin\Debug\netcoreapp3.1\ForLooupConsole.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\bin\Debug\netcoreapp3.1\ForLooupConsole.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\bin\Debug\netcoreapp3.1\ForLooupConsole.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\bin\Debug\netcoreapp3.1\ForLooupConsole.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\bin\Debug\netcoreapp3.1\ForLooupConsole.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\obj\Debug\netcoreapp3.1\ForLooupConsole.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\obj\Debug\netcoreapp3.1\ForLooupConsole.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\obj\Debug\netcoreapp3.1\ForLooupConsole.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\obj\Debug\netcoreapp3.1\ForLooupConsole.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\obj\Debug\netcoreapp3.1\ForLooupConsole.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\obj\Debug\netcoreapp3.1\ForLooupConsole.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ForLooupConsole\ForLooupConsole\obj\Debug\netcoreapp3.1\ForLooupConsole.genruntimeconfig.cache

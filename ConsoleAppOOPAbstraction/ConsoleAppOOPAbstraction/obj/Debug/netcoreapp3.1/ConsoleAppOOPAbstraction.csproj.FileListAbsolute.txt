@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPAbstraction\ConsoleAppOOPAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppOOPAbstraction.genruntimeconfig.cache

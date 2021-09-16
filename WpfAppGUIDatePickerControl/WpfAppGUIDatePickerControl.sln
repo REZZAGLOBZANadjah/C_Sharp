@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppGUIDatePickerControl", "WpfAppGUIDatePickerControl\WpfAppGUIDatePickerControl.csproj", "{6DB10241-430A-4B99-A9C2-8A6CC4B4FB82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB10241-430A-4B99-A9C2-8A6CC4B4FB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB10241-430A-4B99-A9C2-8A6CC4B4FB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB10241-430A-4B99-A9C2-8A6CC4B4FB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB10241-430A-4B99-A9C2-8A6CC4B4FB82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56E6CA09-3212-4785-BA5E-B4F00BFC315B}
+	EndGlobalSection
+EndGlobal

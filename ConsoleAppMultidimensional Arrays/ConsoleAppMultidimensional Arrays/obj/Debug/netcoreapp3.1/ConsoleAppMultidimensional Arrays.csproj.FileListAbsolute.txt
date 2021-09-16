@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\bin\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\bin\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\bin\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\bin\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\bin\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\bin\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\obj\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\obj\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\obj\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\obj\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\obj\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\obj\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppMultidimensional Arrays\ConsoleAppMultidimensional Arrays\obj\Debug\netcoreapp3.1\ConsoleAppMultidimensional Arrays.genruntimeconfig.cache

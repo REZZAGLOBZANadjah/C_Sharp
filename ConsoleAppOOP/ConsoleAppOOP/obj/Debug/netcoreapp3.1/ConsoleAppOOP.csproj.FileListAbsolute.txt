@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.genruntimeconfig.cache

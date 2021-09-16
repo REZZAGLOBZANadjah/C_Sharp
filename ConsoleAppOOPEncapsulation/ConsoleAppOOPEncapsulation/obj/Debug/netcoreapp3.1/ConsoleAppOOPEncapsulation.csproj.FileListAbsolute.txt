@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPEncapsulation\ConsoleAppOOPEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppOOPEncapsulation.genruntimeconfig.cache

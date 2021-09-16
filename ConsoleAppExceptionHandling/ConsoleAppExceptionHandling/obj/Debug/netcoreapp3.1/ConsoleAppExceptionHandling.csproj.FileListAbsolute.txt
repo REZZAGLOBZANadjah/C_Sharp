@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\bin\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\bin\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\bin\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\bin\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\bin\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\bin\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.genruntimeconfig.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\netcoreapp3.1\ConsoleAppExceptionHandling.csproj.AssemblyReference.cache

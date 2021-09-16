@@ -1,0 +1,16 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\bin\Debug\net5.0\ConsoleAppFileIOA.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\bin\Debug\net5.0\ConsoleAppFileIOA.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\bin\Debug\net5.0\ConsoleAppFileIOA.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\bin\Debug\net5.0\ConsoleAppFileIOA.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\bin\Debug\net5.0\ConsoleAppFileIOA.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\bin\Debug\net5.0\ref\ConsoleAppFileIOA.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\bin\Debug\net5.0\ConsoleAppFileIOA.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\obj\Debug\net5.0\ConsoleAppFileIOA.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\obj\Debug\net5.0\ConsoleAppFileIOA.GeneratedMSBuildEditorConfig.editorconfig
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\obj\Debug\net5.0\ConsoleAppFileIOA.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\obj\Debug\net5.0\ConsoleAppFileIOA.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\obj\Debug\net5.0\ConsoleAppFileIOA.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\obj\Debug\net5.0\ConsoleAppFileIOA.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\obj\Debug\net5.0\ref\ConsoleAppFileIOA.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\obj\Debug\net5.0\ConsoleAppFileIOA.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppFileIOA\ConsoleAppFileIOA\obj\Debug\net5.0\ConsoleAppFileIOA.genruntimeconfig.cache

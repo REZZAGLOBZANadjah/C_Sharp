@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.genruntimeconfig.cache

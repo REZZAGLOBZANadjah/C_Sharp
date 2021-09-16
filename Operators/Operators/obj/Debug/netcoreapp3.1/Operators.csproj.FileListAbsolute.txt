@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

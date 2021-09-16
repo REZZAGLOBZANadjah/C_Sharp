@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.genruntimeconfig.cache

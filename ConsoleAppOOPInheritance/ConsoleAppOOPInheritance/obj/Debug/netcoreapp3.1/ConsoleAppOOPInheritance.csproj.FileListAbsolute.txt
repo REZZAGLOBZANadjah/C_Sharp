@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\bin\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\bin\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\bin\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\bin\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\bin\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\bin\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\obj\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\obj\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\obj\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\obj\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\obj\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\obj\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppOOPInheritance\ConsoleAppOOPInheritance\obj\Debug\netcoreapp3.1\ConsoleAppOOPInheritance.genruntimeconfig.cache

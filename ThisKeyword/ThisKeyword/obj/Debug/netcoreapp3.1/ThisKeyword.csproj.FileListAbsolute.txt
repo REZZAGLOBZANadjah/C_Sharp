@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\bin\Debug\netcoreapp3.1\ThisKeyword.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ThisKeyword\ThisKeyword\obj\Debug\netcoreapp3.1\ThisKeyword.genruntimeconfig.cache

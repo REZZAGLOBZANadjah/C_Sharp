@@ -1,0 +1,13 @@
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.exe
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.deps.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.runtimeconfig.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.runtimeconfig.dev.json
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.csproj.AssemblyReference.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.AssemblyInfoInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.AssemblyInfo.cs
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.csproj.CoreCompileInputs.cache
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.dll
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.pdb
+G:\work(Software Engineer)\Csharp_Projecys2021\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.genruntimeconfig.cache
